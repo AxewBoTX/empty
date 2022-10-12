@@ -21,3 +21,6 @@ The steps to contribute are as follows,
 8. Make sure to not make any changes to the existing files in the project otherwise your contribution request will be rejected.
 9. Save the file and push the changes to your forked repository of this project.
 10. Make a pull request and if you followed all the rules and steps then your contribution request will be accpeted and your changes will be shown on the website.
+
+## Contact
+You can contact the dev [AxewBoTX](https://axewbotx-links.netlify.app/) on any of his social profiles regarding any querries. 
